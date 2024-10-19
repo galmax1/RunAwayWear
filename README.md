@@ -5,8 +5,8 @@ and lightweight running tracker experience directly on your wrist. Built with We
 app integrates effortlessly with the mobile version, ensuring real-time synchronization and accurate 
 tracking of your running stats. Using **Jetpack Compose for Wear OS** and **Kotlin Coroutines**, 
 the app maintains the reactive, real-time data handling approach found in the main app, powered 
-by **Flow**. Its modular architecture enables scalability and easy maintenance, while offline-first 
-support ensures uninterrupted tracking even without a phone connection. Perfect for those on the go, 
+by **Flow**. Its modular architecture enables scalability and easy maintenance, ensures uninterrupted 
+tracking even with a phone connection. Perfect for those on the go, 
 the Wear Companion brings the best of modern Android development to your smartwatch, offering a 
 practical and responsive running companion.
 
